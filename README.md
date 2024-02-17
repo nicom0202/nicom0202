@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://nicom0202.github.io/index.html](https://nicom0202.github.io/index.html)
+- 👨‍💻 All of my projects are available at [https://nicom0202.github.io/index.html](https://github.com/nicom0202/Projects)
 
 - 📫 How to reach me **nimimart@ucsc.edu**
 
