@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Martinez</h1>
-<h3 align="center">A passionate Full Stack Developer from the Bay Area</h3>
+<h3 align="center">A passionate Software Engineer from the Bay Area</h3>
 
 <h3 align="left">About Me:</h3>
   
